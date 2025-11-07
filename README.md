@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <!--
 **hamzaaitaissa/hamzaaitaissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
