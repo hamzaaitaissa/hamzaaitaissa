@@ -44,11 +44,9 @@ located_in: Morocco
 current_job: .NET Backend Engineer
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Developer",
     "Vocational Training Diploma",
   ]
-company: LangRythms
-
 fields_of_interests:
   [
     "Web Development",
@@ -71,6 +69,7 @@ Languages:
     "French 🇫🇷",
     "Arabic 🇲🇦"
   ]
+
 mindset: I don't know, but I will find out.
   
 currently_learning: ["Kubernetes, Unity, and C++"]
