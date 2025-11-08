@@ -65,11 +65,12 @@ technical_background:
     "Backend Engineer",
   ]
 Languages:
-[
+  [
     "English 🇺🇸",
     "German 🇩🇪",
-    "French 🇫🇷"
-]
+    "French 🇫🇷",
+    "Arabic 🇲🇦"
+  ]
 mindset: I don't know, but I will find out.
   
 currently_learning: ["Kubernetes, Unity, and C++"]
