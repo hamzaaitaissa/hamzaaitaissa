@@ -64,6 +64,7 @@ technical_background:
     "Web Developer"
     "Backend Engineer",
   ]
+mindset: I don't know, but I will find out.
   
 currently_learning: ["Kubernetes, Unity, and C++"]
 2026 Goals: ["Create my first Game on Unity, Creating an app using Microservices, Solve 100 LeetCode problem, Learn a low level programming language"]
