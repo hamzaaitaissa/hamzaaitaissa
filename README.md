@@ -6,10 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is;Hamza+Ait+Aissa;Nice+to+meet+you!&center=true&size=30">
   </a>
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/94389e2e-5915-4de5-b575-bb67d10688e6"
-       alt="mitchell gif"
-       width="350"
-       style="border-radius: 10px; margin-top: 10px;">
+  
 </p>
 
 
