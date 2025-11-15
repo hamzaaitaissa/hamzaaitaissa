@@ -1,25 +1,7 @@
 <!-- Header -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamzaaitaissa.hamzaaitaissa">
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is;Hamza+Ait+Aissa;Nice+to+meet+you!&center=true&size=30">
-  </a>
-  <p align="center">
-  
-</p>
-
-
-<div align="center" style="margin: 30px 0;">
-  ════ ⋆★⋆ ════ 
-  <p style="font-size: 18px; font-style: italic; color: #FFD700; max-width: 700px; line-height: 1.5; border-left: 4px solid #00C9FF; padding-left: 15px;">
-    "Passion and curiosity drives me every day."
-  </p>
-</div>
-</div>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Hello There </br></br>Let's Connect and have a Chat!💬
 </h1>
 
 <p align="center">
@@ -116,10 +98,11 @@ hobbies: ["Gaming", "Anime", "Gym", "Science", "Music", "Books"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
 </p>
+<!-- <div align="center" style="margin: 30px 0;">
+  ════ ⋆★⋆ ════ 
+  <p style="font-size: 18px; font-style: italic; color: #FFD700; max-width: 700px; line-height: 1.5; border-left: 4px solid #00C9FF; padding-left: 15px;">
+    "Passion and curiosity drives me every day."
+  </p>
+</div> -->
 
-
-<h1 align="left">
-⚡Some stats
-</h1>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaaitaissa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaitaissa&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamzaaitaissa.hamzaaitaissa">
