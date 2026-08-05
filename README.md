@@ -18,9 +18,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Hamza Ait aissa
-located_in: Morocco
-current_job: .NET Backend Engineer
+name: "Hamza Ait aissa"
+located_in: "Morocco"
+current_job: ".NET Full-Stack Engineer"
 education:
   [
     "Self-Taught Developer",
@@ -39,7 +39,7 @@ fields_of_interests:
 technical_background:
   [
     "Web Developer"
-    "Backend Engineer",
+    "Software Engineer",
   ]
 Languages:
   [
@@ -49,7 +49,7 @@ Languages:
     "Arabic 🇲🇦"
   ]
 
-mindset: I don't know, but I will find out.
+mindset: "I don't know, but I will find out."
   
 currently_learning: ["Kubernetes, Unity, and C++"]
 2026 Goals: ["Create my first Game on Unity, Creating an app using Microservices, Solve 100 LeetCode problem, Learn a low level programming language"]
